@@ -29,7 +29,7 @@ Cinemachine | Cinemachine 2.6.0v
 Click the play button and the game starts.
 
 ### Game Screen
-![image](https://user-images.githubusercontent.com/60923302/89009481-9c801580-d347-11ea-9a2b-7bc23fb27bc0.png)
+![image](https://user-images.githubusercontent.com/60923302/89010015-c5ed7100-d348-11ea-80b2-b1647559c851.png)
 * NPC patrols from waypoints to waypoints, chases the player character if it's within a certain range.
 * The player can move the player character by clicking the clickable objects.
 * The camera follows the player character.
