@@ -7,9 +7,9 @@ This repository contains assests that I created while studying Unity with Unity 
 What's included in the project
  Content | Detail 
  ---|---
-Player Control | NavMeshAgent |
- | Animator Controller(Blend Tree) |
- | Player Controller(C# Script) |
+Player Control | NavMeshAgent 
+ | Animator Controller(Blend Tree) 
+ | Player Controller(C# Script) 
 Mouse Manager | Player moves to the clicked point. Changing cursor images depending on what it's pointing at. Triggering event when a tagged object is clicked. |
 NavMesh (Navigation) | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) |
 NPC Patrol & Chase Behavior | NavMeshAgent, Animator Controller(Blend Tree), NPC Controller(C# Script): NPC Patrols from a waypoint to another and chases the player if the player is within a certain range. |
