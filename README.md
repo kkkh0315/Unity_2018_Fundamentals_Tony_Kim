@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/60923302/89010171-0947df80-d349-11ea-858a-d62c1c66a652.png)  
+  
+  
 # Unity-2018-Fundamentals-Tony-Kim (Creating a Third Person Game)
 This repository contains assests that I created while studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.  
 The Third Person Game prototype that I made includes following features listed below.
