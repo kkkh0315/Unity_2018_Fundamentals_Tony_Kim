@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60923302/89010171-0947df80-d349-11ea-858a-d62c1c66a652.png)  
+![image](https://user-images.githubusercontent.com/60923302/89010226-1e247300-d349-11ea-9e45-cfc516944fe5.png) 
   
   
 # Unity-2018-Fundamentals-Tony-Kim (Creating a Third Person Game)
