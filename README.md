@@ -2,9 +2,7 @@
 This repository contains assests that I created while studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.
 
 ## What's Included
-### Start UI
-![image](https://user-images.githubusercontent.com/60923302/89005507-9a19bd80-d33f-11ea-9920-eb1942b99822.png)
-What's included in the project
+### What's included in the project
  Content | Detail 
  ---|---
 Player Control | NavMeshAgent 
@@ -25,3 +23,9 @@ UI | Start Screen(TextMeshPro, Button, Image)
 Post Processing | Post Processing stack 2.3.0v
 Cinemachine | Cinemachine 2.6.0v 
 | | Virtual Camera: Creating a camera that follows the player character.
+
+#### Start Screen
+![image](https://user-images.githubusercontent.com/60923302/89005507-9a19bd80-d33f-11ea-9920-eb1942b99822.png)
+Click the play button and the game starts.
+#### Game Screen
+![image](https://user-images.githubusercontent.com/60923302/89008058-ee736c00-d344-11ea-835e-155d3d81a296.png)
