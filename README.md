@@ -3,7 +3,6 @@ This repository contains assests that I created while studying Unity with Unity 
 The Third Person Game prototype that I made includes following features listed below.
 
 ## What's Included
-### What's included in the project
  Content | Detail 
  ---|---
 Player Control | NavMeshAgent 
@@ -25,11 +24,11 @@ Post Processing | Post Processing stack 2.3.0v
 Cinemachine | Cinemachine 2.6.0v 
 | | Virtual Camera: Creating a camera that follows the player character.
 
-#### Start Screen
+### Start Screen
 ![image](https://user-images.githubusercontent.com/60923302/89005507-9a19bd80-d33f-11ea-9920-eb1942b99822.png)
 Click the play button and the game starts.
 
-#### Game Screen
+### Game Screen
 ![image](https://user-images.githubusercontent.com/60923302/89009481-9c801580-d347-11ea-9a2b-7bc23fb27bc0.png)
 * NPC patrols from waypoints to waypoints, chases the player character if it's within a certain range.
 * The player can move the player character by clicking the clickable objects.
