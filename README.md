@@ -1,5 +1,6 @@
-# Unity-2018-Fundamentals-Tony-Kim 
-This repository contains assests that I created while studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.
+# Unity-2018-Fundamentals-Tony-Kim (Creating a Third Person Game)
+This repository contains assests that I created while studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.  
+The Third Person Game prototype that I made includes following features.
 
 ## What's Included
 ### What's included in the project
@@ -27,5 +28,9 @@ Cinemachine | Cinemachine 2.6.0v
 #### Start Screen
 ![image](https://user-images.githubusercontent.com/60923302/89005507-9a19bd80-d33f-11ea-9920-eb1942b99822.png)
 Click the play button and the game starts.
+
 #### Game Screen
-![image](https://user-images.githubusercontent.com/60923302/89008058-ee736c00-d344-11ea-835e-155d3d81a296.png)
+![image](https://user-images.githubusercontent.com/60923302/89009481-9c801580-d347-11ea-9a2b-7bc23fb27bc0.png)
+* NPC patrols from waypoints to waypoints, chases the player character if it's within a certain range.
+* The player can move the player character by clicking the clickable objects.
+* The camera follows the player character.
