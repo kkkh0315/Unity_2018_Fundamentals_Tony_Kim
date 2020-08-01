@@ -1,6 +1,6 @@
 # Unity-2018-Fundamentals-Tony-Kim (Creating a Third Person Game)
-This repository contains assests that I created while studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.  
-The Third Person Game prototype that I made includes following features listed below.
+This repository contains assets I created studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.  
+The Third Person Game prototype I made includes following features listed below.
 
 ## What's Included
  Content | Detail 
@@ -14,7 +14,7 @@ Mouse Manager | Player moves to the clicked point.
 NavMesh (Navigation) | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) 
 NPC Patrol & Chase Behavior | NavMeshAgent |
 | | Animator Controller(Blend Tree)
-| | NPC Controller(C# Script): NPC Patrols from a waypoint to another and chases the player if the player is within a certain range.
+| | NPC Controller(C# Script): NPC patrols from a waypoint to another, and chases the player if the player is within a certain range.
 Level Design | Using environment assests(fbx, material, texture, etc): Rigidbody, Collider, 
 | | Light(Skybox, Point Light, Directional Light, Reflection Probe)
 | | Particle System(Creating fire, fog)
