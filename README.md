@@ -1,6 +1,6 @@
-# Unity-2018-Fundamentals-Tony-Kim (Creating a Third Person Game)
-This repository contains assets I created studying Unity with Unity 2018 Fundamentals in Pluralsight, a lecture provided by Joshua Kinney.  
-The Third Person Game prototype I made includes following features listed below.
+# Studying Unity (Creating a Third Person Game)
+This repository contains the Unity project I made studying how to make a third person game in Unity.
+Beginner level.
 
 ## What's Included
  Content | Detail 
