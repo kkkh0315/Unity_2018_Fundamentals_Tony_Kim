@@ -9,11 +9,11 @@ Beginner level.
 Player Control | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents): NavMeshAgent 
 | | Animator Controller(Blend Tree) 
 | | Player Controller(C# Script): **GetComponent, SetFloat, GetKeyDown, KeyCode, OnCollisionEnter**
-Mouse Manager | Player moves to the clicked point. (C# Script) : **GetMouseButtonDown, Serializable, EventVector3**
-| | Changing cursor images depending on what it's pointing at. (C# Script) : **Raycast, RaycastHit, Cursor.SetCursor**
-| | Triggering event when a tagged object is clicked. (C# Script) : **Debug.Log**
+Mouse Manager | Player moves to the clicked point. (C# Script): **GetMouseButtonDown, Serializable, EventVector3**
+| | Changing cursor images depending on what it's pointing at. (C# Script): **Raycast, RaycastHit, Cursor.SetCursor**
+| | Triggering event when a tagged object is clicked. (C# Script): **Debug.Log**
 NavMesh (Navigation) | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) 
-NPC Patrol & Chase Behavior | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) : NavMeshAgent
+NPC Patrol & Chase Behavior | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents): NavMeshAgent
 | | Animator Controller(Blend Tree)
 | | NPC Controller(C# Script): **InvokeRepeating, Vector3.Distance, Array**
 Level Design | Using environment assests(fbx, material, texture, etc): Rigidbody, Collider, 
@@ -21,7 +21,7 @@ Level Design | Using environment assests(fbx, material, texture, etc): Rigidbody
 | | Particle System(Creating fire, fog)
 | | Audio
 UI | Start Screen(TextMeshPro, Button, Image)
-| | Switching scenes from one to another (C# Script) : **UnityEngine.SceneManagement, SceneManager.LoadScene**
+| | Switching scenes from one to another (C# Script): **UnityEngine.SceneManagement, SceneManager.LoadScene**
 Post Processing | Post Processing stack 2.3.0v
 Cinemachine | Cinemachine 2.6.0v 
 | | Virtual Camera: Creating a camera that follows the player character.
