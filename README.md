@@ -6,22 +6,22 @@ Beginner level.
 ## What's Included
  Content | Detail 
  ---|---
-Player Control | NavMeshAgent 
+Player Control | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents): NavMeshAgent 
 | | Animator Controller(Blend Tree) 
-| | Player Controller(C# Script) 
-Mouse Manager | Player moves to the clicked point. (C# Script)
-| | Changing cursor images depending on what it's pointing at. (C# Script)
-| | Triggering event when a tagged object is clicked. (C# Script)
+| | Player Controller(C# Script): **GetComponent, SetFloat, GetKeyDown, KeyCode, OnCollisionEnter**
+Mouse Manager | Player moves to the clicked point. (C# Script) : **GetMouseButtonDown, Serializable, EventVector3**
+| | Changing cursor images depending on what it's pointing at. (C# Script) : **Raycast, RaycastHit, Cursor.SetCursor**
+| | Triggering event when a tagged object is clicked. (C# Script) : **Debug.Log**
 NavMesh (Navigation) | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) 
-NPC Patrol & Chase Behavior | NavMeshAgent |
+NPC Patrol & Chase Behavior | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) : NavMeshAgent
 | | Animator Controller(Blend Tree)
-| | NPC Controller(C# Script): NPC patrols from a waypoint to another, and chases the player if the player is within a certain range.
+| | NPC Controller(C# Script): **InvokeRepeating, Vector3.Distance, Array**
 Level Design | Using environment assests(fbx, material, texture, etc): Rigidbody, Collider, 
 | | Light(Skybox, Point Light, Directional Light, Reflection Probe)
 | | Particle System(Creating fire, fog)
 | | Audio
 UI | Start Screen(TextMeshPro, Button, Image)
-| | Switching scenes from one to another (C# Script)
+| | Switching scenes from one to another (C# Script) : **UnityEngine.SceneManagement, SceneManager.LoadScene**
 Post Processing | Post Processing stack 2.3.0v
 Cinemachine | Cinemachine 2.6.0v 
 | | Virtual Camera: Creating a camera that follows the player character.
