@@ -1,4 +1,4 @@
-# Studying Unity (Creating a Third Person Game)
+# Studying Unity for the First Time(Creating a Third Person Game)
 This repository contains the Unity project I made studying how to make a third person game in Unity.  
 Most, but not all, of the parts are created based on the lecture "Unity 2018 Fundamentals" provided by Pluralsight, lectured by Joshua Kinney.  
 Beginner level.
