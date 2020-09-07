@@ -9,8 +9,8 @@ Please refer to [Pluralsight Unity 2018 Fundamentals: Studying Unity for the Fir
 Player Control | [PlayerController.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/PlayerController.cs)
 | | Healthbar System(C# Script): [Healthbar.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Healthbar.cs), [HealthPotion.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/HealthPotion.cs)
 | | Singleton Pattern
-Item | Treasure Chest: [TreasureChest.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/TreasureChest.cs): When pressing spacebar near treasure chests, the chest opens and a key pops out.
-| | Keys: [Key.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Key.cs): When pressing spacebar near a key, the key disappears from the screen, the character obtains the key which is shown in the inventory.
+Item | Treasure Chest: [TreasureChest.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/TreasureChest.cs) When pressing spacebar near treasure chests, the chest opens and a key pops out.
+| | Keys: [Key.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Key.cs) When pressing spacebar near a key, the key disappears from the screen, the character obtains the key which is shown in the inventory.
 Weapon | Weapons[Weapons.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Weapon.cs): The character can give an enemy some damage when a weapon collides with the enemy due to the swinging animation.
 Enemy | [EnemyController.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/EnemyController.cs)
 | | Health system updated. The enemy dies(with an animation) when the heatlh reaches 0.
