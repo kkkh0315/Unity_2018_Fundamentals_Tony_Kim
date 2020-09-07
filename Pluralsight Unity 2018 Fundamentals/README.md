@@ -26,6 +26,8 @@ Post Processing | Post Processing stack 2.3.0v
 Cinemachine | Cinemachine 2.6.0v 
 | | Virtual Camera: Creating a camera that follows the player character.
 
+[C# Scripts](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals/Assets/Scripts)
+
 ### Start Screen
 ![image](https://user-images.githubusercontent.com/60923302/89005507-9a19bd80-d33f-11ea-9920-eb1942b99822.png)
 Click the play button and the game starts.
