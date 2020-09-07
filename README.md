@@ -11,5 +11,5 @@ Detailed descriptions are included in each directories.
 
 **김경환 / Kyoungwhan Kim (a.k.a Tony Kim)**  
 P.H : 010-3955-7681  
-e-mail : kyoukim@student.42seoul.kr
+e-mail : skku2014313527@gmail.com
 
