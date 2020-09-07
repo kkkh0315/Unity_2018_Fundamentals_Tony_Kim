@@ -31,16 +31,15 @@ Cinemachine | Cinemachine 2.6.0v
 Player Control | [PlayerController.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/PlayerController.cs)
 | | Healthbar System: [Healthbar](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Healthbar.cs), [HealthPotion](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/HealthPotion.cs)
 | | Singleton Pattern
+| | Inventory
 Item | [TreasureChests](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/TreasureChest.cs): When pressing spacebar near treasure chests, the chest opens and a key pops out.
-| | [Keys](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Key.cs): When pressing spacebar near a key, the key disappears from the screen, the character obtains the key which is shown in the inventory.
+| | [Keys](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Key.cs): When pressing spacebar near a key, the key disappears from the screen, the character obtains the key, and it gets stored in the inventory.
+| | [Item](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Item.cs): Scriptable Object
 Weapon | [Weapons](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Weapon.cs): The character can give an enemy some damage when a weapon collides with the enemy due to the swinging animation.
 Enemy | [EnemyController](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/EnemyController.cs)
 | | Health system updated. The enemy dies(with an animation) when the heatlh reaches 0.
 | | Attacking system updated. When the enemy reaches the main character, it starts to attack(with an animation).
-Level Design | Using environment assests(fbx, material, texture, etc) 
-| | Light(Skybox, Point Light, Directional Light, Reflection Probe)
-| | Particle System(Creating fire, fog)
-| | The map is a maze.
+Level Design | Minimap: Render Texture
 
 ## Reminder
 This project is for studying basic features of Unity and Unity C# Scripts. Thus, it's not for making a game.
