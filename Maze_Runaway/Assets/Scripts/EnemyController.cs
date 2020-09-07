@@ -31,7 +31,7 @@ public class EnemyController : MonoBehaviour
     private Animator anim;
     private NavMeshAgent agent;
 
-    private void Awake()
+    private void Start()
     {
         anim = GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
