@@ -41,5 +41,13 @@ Enemy | [EnemyController](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master
 | | Attacking system updated. When the enemy reaches the main character, it starts to attack(with an animation).
 Level Design | Minimap: Render Texture
 
+## Screen Shots
+![swing](https://user-images.githubusercontent.com/60923302/92344796-62eab900-f102-11ea-8722-1e1d041f5dd2.png)
+Combat system
+![Chest](https://user-images.githubusercontent.com/60923302/92344834-7dbd2d80-f102-11ea-8229-fb4261feffc3.png)
+Openable treasure chest (when a spacebar is pressed) and obtainable key (when a spacebar is pressed)
+![Inventory](https://user-images.githubusercontent.com/60923302/92344839-7e55c400-f102-11ea-87fe-dba2c94f12a4.png)
+Inventory (Appears when pressing 'I')
+
 ## Reminder
 This project is for studying basic features of Unity and Unity C# Scripts. Thus, it's not for making a game.
