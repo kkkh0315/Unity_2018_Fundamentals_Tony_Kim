@@ -1,7 +1,7 @@
 # Studying Unity: Maze_Runaway
-This repository contains what I studied after finishing my [Pluralsight Unity 2018 Fundamentals: Studying Unity for the First Time](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals)  
-Features included in [Pluralsight Unity 2018 Fundamentals: Studying Unity for the First Time](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals) are not descripted in this README.  
-Please refer to [Pluralsight Unity 2018 Fundamentals: Studying Unity for the First Time](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals) for basic components like Mouse Manager, NavMesh, UI, Post Processing, Cinemachine, etc.
+This repository contains what I studied after finishing my [Pluralsight Unity 2018 Fundamentals: Studying Unity for the First Time](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals)   
+
+## What was included in [Pluralsight Unity 2018 Fundamentals: Studying Unity for the First Time](https://github.com/kkkh0315/Unity_Tony_Kim/tree/master/Pluralsight%20Unity%202018%20Fundamentals)  
 
 ## What's Included
  Content | Detail 
