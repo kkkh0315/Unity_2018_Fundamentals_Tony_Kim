@@ -6,9 +6,9 @@ Please refer to [Pluralsight Unity 2018 Fundamentals: Studying Unity for the Fir
 ## What's Included
  Content | Detail 
  ---|---
-Player Control | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents): NavMeshAgent 
-| | Animator Controller(Blend Tree) 
-| | Player Controller(C# Script): **GetComponent, SetFloat, GetKeyDown, KeyCode, OnCollisionEnter**
+Player Control | [Player Controller(C# Script)](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/PlayerController.cs)
+| | Healthbar System(C# Script): [Healthbar.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/Healthbar.cs), [HealthPotion.cs](https://github.com/kkkh0315/Unity_Tony_Kim/blob/master/Maze_Runaway/Assets/Scripts/HealthPotion.cs)
+| | Singleton Pattern
 Mouse Manager | Player moves to the clicked point. (C# Script): **GetMouseButtonDown, Serializable, EventVector3**
 | | Changing cursor images depending on what it's pointing at. (C# Script): **Raycast, RaycastHit, Cursor.SetCursor**
 | | Triggering event when a tagged object is clicked. (C# Script): **Debug.Log**
