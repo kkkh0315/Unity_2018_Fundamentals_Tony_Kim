@@ -55,4 +55,4 @@ Inventory (Appears when pressing 'I')
 
 ----
 ## Reminder
-This project is for studying basic features of Unity and Unity C# Scripts. Thus, it's not for making a game.
+This project is for studying basic features of Unity and Unity C# Scripts. Thus, it does not aim to release a game product.
